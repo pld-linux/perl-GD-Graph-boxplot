@@ -6,7 +6,8 @@ Summary(pl):	Modu³ Perla GD::Graph::boxplot - tworzenie wykresów pude³kowe
 Name:		perl-GD-Graph-boxplot
 Version:	1.00
 Release:	2
-License:	Artistic or GPL
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}%{pnam}-%{version}.tar.gz
 # Source0-md5:	45193804ffc099eedff7e893bb037018
