@@ -5,7 +5,7 @@ Summary:	GD::Graph::boxplot Perl module - create box-and-whisker plots
 Summary(pl):	Modu³ Perla GD::Graph::boxplot - tworz±cy wykresy pude³kowe
 Name:		perl-GD-Graph-boxplot
 Version:	1.00
-Release:	1
+Release:	2
 License:	Artistic or GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}%{pnam}-%{version}.tar.gz
