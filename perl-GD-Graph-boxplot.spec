@@ -31,7 +31,7 @@ pude³kowymi przy u¿yciu modu³ów GD i GD::Graph.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
