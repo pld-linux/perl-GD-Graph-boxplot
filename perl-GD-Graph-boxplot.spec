@@ -29,7 +29,7 @@ pude³kowymi przy u¿yciu modu³ów GD i GD::Graph.
 %setup -q -n %{pdir}%{pnam}-%{version}
 
 %build
-perl Makefile.PL
+%{__perl} Makefile.PL
 %{__make}
 
 %install
