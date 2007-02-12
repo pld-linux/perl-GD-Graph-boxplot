@@ -2,7 +2,7 @@
 %define		pdir	GD
 %define		pnam	Graph-boxplot
 Summary:	GD::Graph::boxplot Perl module - create box-and-whisker plots
-Summary(pl):	Modu≥ Perla GD::Graph::boxplot - tworzenie wykresÛw pude≥kowe
+Summary(pl.UTF-8):   Modu≈Ç Perla GD::Graph::boxplot - tworzenie wykres√≥w pude≈Çkowe
 Name:		perl-GD-Graph-boxplot
 Version:	1.00
 Release:	3
@@ -23,9 +23,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 GD::Graph::boxplot is a package to generate PNG box and whisker plots,
 using GD and GD::Graph modules.
 
-%description -l pl
-GD::Graph::boxplot to pakiet do tworzenia obrazkÛw PNG z wykresami
-pude≥kowymi przy uøyciu modu≥Ûw GD i GD::Graph.
+%description -l pl.UTF-8
+GD::Graph::boxplot to pakiet do tworzenia obrazk√≥w PNG z wykresami
+pude≈Çkowymi przy u≈ºyciu modu≈Ç√≥w GD i GD::Graph.
 
 %prep
 %setup -q -n %{pdir}%{pnam}-%{version}
