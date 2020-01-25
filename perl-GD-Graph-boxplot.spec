@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	GD
 %define		pnam	Graph-boxplot
 Summary:	GD::Graph::boxplot Perl module - create box-and-whisker plots
